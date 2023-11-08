@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Validium Benchmarks
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
+The project demonstrates gas test comparison for validium vs. zkEVM sequencing on Ethereum L1.
+```sh
+npm i
+npm run test
 ```
