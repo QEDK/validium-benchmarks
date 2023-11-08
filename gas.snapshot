@@ -1,0 +1,65 @@
+
+
+  Validium
+    Gas tests
+172846n gas
+Max transactions:  173n
+Max data included:  5536n
+Price to fill block:  2212n
+Price per byte:  0.3995664739884393
+      ✔ 32 bytes (928ms)
+172846n gas
+Max transactions:  173n
+Max data included:  173000n
+Price to fill block:  2212n
+Price per byte:  0.012786127167630057
+      ✔ 1000 bytes
+172846n gas
+Max transactions:  173n
+Max data included:  17300000n
+Price to fill block:  2212n
+Price per byte:  0.00012786127167630057
+      ✔ 100000 bytes
+172846n gas
+Max transactions:  173n
+Max data included:  20760000n
+Price to fill block:  2212n
+Price per byte:  0.00010655105973025048
+      ✔ 120000 bytes
+172846n gas
+Max transactions:  173n
+Max data included:  173000000n
+Price to fill block:  2212n
+Price per byte:  0.000012786127167630058
+      ✔ 1000000 bytes
+
+  ZkEVM
+    Gas tests
+141632n gas
+Max transactions:  211n
+Max data included:  6752n
+Price to fill block:  2211n
+Price per byte:  0.3274585308056872
+      ✔ 32 bytes (60ms)
+157545n gas
+Max transactions:  190n
+Max data included:  190000n
+Price to fill block:  2215n
+Price per byte:  0.011657894736842105
+      ✔ 1000 bytes
+1795502n gas
+Max transactions:  16n
+Max data included:  1600000n
+Price to fill block:  2125n
+Price per byte:  0.001328125
+      ✔ 100000 bytes (141ms)
+2130964n gas
+Max transactions:  14n
+Max data included:  1680000n
+Price to fill block:  2207n
+Price per byte:  0.0013136904761904761
+      ✔ 120000 bytes (208ms)
+
+
+  9 passing (1s)
+
