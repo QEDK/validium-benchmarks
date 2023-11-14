@@ -1,36 +1,34 @@
-
-
   Validium
     Gas tests
 172846n gas
 Max transactions:  173n
 Max data included:  5536n
-Price to fill block:  2212n
-Price per byte:  0.3995664739884393
-      ✔ 32 bytes (928ms)
+Price to fill block:  2392n
+Price per byte:  0.4320809248554913
+      ✔ 32 bytes (989ms)
 172846n gas
 Max transactions:  173n
 Max data included:  173000n
-Price to fill block:  2212n
-Price per byte:  0.012786127167630057
+Price to fill block:  2392n
+Price per byte:  0.013826589595375723
       ✔ 1000 bytes
 172846n gas
 Max transactions:  173n
 Max data included:  17300000n
-Price to fill block:  2212n
-Price per byte:  0.00012786127167630057
+Price to fill block:  2392n
+Price per byte:  0.00013826589595375722
       ✔ 100000 bytes
 172846n gas
 Max transactions:  173n
 Max data included:  20760000n
-Price to fill block:  2212n
-Price per byte:  0.00010655105973025048
+Price to fill block:  2392n
+Price per byte:  0.00011522157996146435
       ✔ 120000 bytes
 172846n gas
 Max transactions:  173n
 Max data included:  173000000n
-Price to fill block:  2212n
-Price per byte:  0.000012786127167630058
+Price to fill block:  2392n
+Price per byte:  0.000013826589595375722
       ✔ 1000000 bytes
 
   ZkEVM
@@ -38,28 +36,27 @@ Price per byte:  0.000012786127167630058
 141632n gas
 Max transactions:  211n
 Max data included:  6752n
-Price to fill block:  2211n
-Price per byte:  0.3274585308056872
+Price to fill block:  2390n
+Price per byte:  0.3539691943127962
       ✔ 32 bytes (60ms)
-157545n gas
+157569n gas
 Max transactions:  190n
 Max data included:  190000n
-Price to fill block:  2215n
-Price per byte:  0.011657894736842105
+Price to fill block:  2395n
+Price per byte:  0.012605263157894737
       ✔ 1000 bytes
-1795502n gas
+1795610n gas
 Max transactions:  16n
 Max data included:  1600000n
-Price to fill block:  2125n
-Price per byte:  0.001328125
-      ✔ 100000 bytes (141ms)
-2130964n gas
+Price to fill block:  2298n
+Price per byte:  0.00143625
+      ✔ 100000 bytes (153ms)
+2130976n gas
 Max transactions:  14n
 Max data included:  1680000n
-Price to fill block:  2207n
-Price per byte:  0.0013136904761904761
-      ✔ 120000 bytes (208ms)
+Price to fill block:  2386n
+Price per byte:  0.0014202380952380953
+      ✔ 120000 bytes (192ms)
 
 
-  9 passing (1s)
-
+  9 passing (2s)

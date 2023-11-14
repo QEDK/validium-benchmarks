@@ -7,7 +7,7 @@ import { expect } from "chai";
 import { ethers } from "hardhat";
 import { faker } from '@faker-js/faker';
 
-const etherPrice = 1850n
+const etherPrice = 2000n
 const gasCost = 40000000000n
 
 describe("Validium", function () {
